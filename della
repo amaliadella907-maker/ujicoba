@@ -1,0 +1,19 @@
+<IDOCTYPE html>
+<html>
+  <head>
+    <title>ProfilSekolah</title>
+  </head>
+  <body>
+    <header>
+      <h1>Selamat datang di sekolah XYZ</h1>
+    </header
+    <section>
+      <h2>Tentang Sekolah</h2>
+      <p>Sekoah XYZ merupakan sekolah dengan fasilitas lengkap...</p>
+    </section
+    <footer>
+      <p>Hubungi kami di: info@sekolahxyz.com</p>
+    </footer
+    </body>
+  </html>
+  
